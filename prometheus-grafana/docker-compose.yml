@@ -48,7 +48,6 @@ services:
     restart: always
 
   prometheus:
-    container_name: prometheus
     image: prom/prometheus:latest
     hostname: prometheus
     restart: always
