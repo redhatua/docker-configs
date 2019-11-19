@@ -1,0 +1,4 @@
+grafana/config.monitoring
+grafana/provisioning/datasources/*.yml
+grafana/provisioning/dashboards/*.yml
+prometheus/*.yml
